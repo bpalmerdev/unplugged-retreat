@@ -160,6 +160,11 @@ address {
   margin-bottom: 40px;
 }
 
+.social i {
+  color: #527158;
+  font-size: 2em;
+}
+
 /* ------------------Base Header - Footer Styles ----------------*/
 
 header,
